@@ -2,7 +2,7 @@
 Summary:	Node's internal object extension function
 Name:		nodejs-%{pkg}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/util-extend/-/%{pkg}-%{version}.tgz
